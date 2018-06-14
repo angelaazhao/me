@@ -1,0 +1,4 @@
+card number: 374069904302471
+pin: 0523
+chequing balance: 14
+savings balance: 200

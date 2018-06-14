@@ -1,0 +1,4 @@
+card number: 5562985558798121
+pin: 1941
+chequing balance: 345
+savings balance: 9000
